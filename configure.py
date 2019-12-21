@@ -4,12 +4,12 @@ import socket
 
 # Setup
 dev = "192.168.178.69" # your G-Homa plug IP address (check on your router)
-devport = 48899      # udp port of G-Homa
 ctrl = "192.168.178.21" # your control server IP address
 port = 4196           # port on the control server (default: 4196)
 
 # No changes beyond this line
 
+devport = 48899      # udp port of G-Homa
 ctrl_default = "plug.g-homa.com" # the default server address
 hello = "HF-A11ASSISTHREAD"
 
