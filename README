@@ -1,0 +1,30 @@
+Python scripts to configure and control a G-Homa WiFi plug
+
+Files
+-----
+
+* configure.py: Use to set the plug to use your host as control server
+* do.py: Control script to switch the plug
+
+Setup
+-----
+
+* Set up the plug via the G-Homa app (iOS or Android)
+* Configure the plug to use your local host as control server
+  * Edit the file and adjust the values for `dev`, `ctrl`, and `port` to your situation
+  * Run the script: `./configure.py`
+
+Usage
+-----
+
+* Read the switch status
+
+  `do.py`
+
+* Switch plug on
+
+  `do.py on`
+
+* Switch plug off
+
+  `do.py off`
