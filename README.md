@@ -34,3 +34,13 @@ Caveats
 
 * only a single plug is supported for now
 * when the control program is not running, the plug LED will blink
+
+Acknowledgments
+---------------
+
+A lot of information was found here:
+
+* https://github.com/rodney42/node-ghoma
+* https://seclists.org/fulldisclosure/2015/May/45
+* https://wiki.fhem.de/wiki/G-Homa
+
