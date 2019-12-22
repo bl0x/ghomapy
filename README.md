@@ -1,4 +1,14 @@
-Python scripts to configure and control a G-Homa WiFi plug
+Features
+--------
+
+* Configure and switch a G-Homa power plug
+* No external dependencies
+* No javascript
+
+Requirements
+------------
+
+* Python 3
 
 Files
 -----
