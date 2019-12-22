@@ -54,6 +54,10 @@ A lot of information was found here:
 * https://seclists.org/fulldisclosure/2015/May/45
 * https://wiki.fhem.de/wiki/G-Homa
 
+Some more information from here could be used:
+
+* https://github.com/poldy79/ghoma2mqtt
+
 Vendor webpage:
 
 * http://www.g-homa.com/index.php/en
